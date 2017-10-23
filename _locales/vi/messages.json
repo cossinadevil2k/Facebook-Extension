@@ -1,0 +1,42 @@
+{
+	"appName":{
+		"message": "Tiện ích Facebook"
+	},
+	"appDescription":{
+		"message": "Một tiện ích được viết bởi Nguyễn Ngọc Quý"
+	},
+	"appBlock":{
+		"message": "Chặn người dùng"
+	},
+	"appBlockUser":{
+		"message":"Đã chặn người dùng với ID "
+	},
+	"author":{
+		"message":"Nguyễn Ngọc Quý"
+	},
+	"title_pop":{
+		"message":"Tiện ích Facebook - Viết bởi Ngọc Quý"
+	},
+	"on":{
+		"message":"BẬT"
+	},
+	"off":{
+		"message":"TẮT"
+	},
+	"notifications":{
+		"message":"Thông báo Facebook"
+	},
+	"save":{
+		"message":"Lưu"
+	},
+	"appMultiBlock":{
+		"message":"Chặn nhiều người"
+	},
+	"error":{
+		"message":"Lỗi! Không thể chặn."
+	},
+	"countBlock":{
+		"message":"Bật bộ đếm chặn"
+	}
+
+}

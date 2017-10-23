@@ -1,0 +1,42 @@
+{
+	"appName":{
+		"message": "Facebook Extension"
+	},
+	"appDescription":{
+		"message": "Developer by Ngoc Quy"
+	},
+	"appBlock":{
+		"message": "Block user"
+	},
+	"appBlockUser":{
+		"message":"Block user ID  "
+	},
+	"author":{
+		"message":"NGUYEN NGOC QUY"
+	},
+	"title_pop":{
+		"message":"Facebook Extension - Developer by Ngoc Quy"
+	},
+	"on":{
+		"message":"ON"
+	},
+	"off":{
+		"message":"OFF"
+	},
+	"notifications":{
+		"message":"Facebook notification"
+	},
+	"save":{
+		"message":"Save"
+	},
+	"appMultiBlock":{
+		"message":"Multiple block"
+	},
+	"error":{
+		"message":"Error"
+	},
+	"countBlock":{
+		"message":"On count block"
+	}
+
+}

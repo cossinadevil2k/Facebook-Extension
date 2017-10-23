@@ -1,0 +1,12 @@
+#pagelet_ego_pane,#pagelet_ego_contextual_group,#pagelet_rhc_footer{
+	display: none;
+}
+
+#pagelet_bluebar{
+	/*position: fixed;*/
+	/*top: 0;*/
+}
+
+.youtube{
+	margin-top: 10px;
+}
